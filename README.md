@@ -12,3 +12,7 @@ chmod +x install_fs.sh
 
 FinalSpeed介绍、服务端、客户端安装部署（完整说明）
 http://www.168520.com/software/finalspeed-server-client.html
+
+官方下载：
+https://github.com/d1sm/finalspeed/issues/79
+https://raw.githubusercontent.com/d1sm/finalspeed/7e26b9a3027e1202fd001a5f7cc8c114243a251f/finalspeed1.2all.zip
